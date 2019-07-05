@@ -1,0 +1,2 @@
+# mymiror
+smart mirror 
